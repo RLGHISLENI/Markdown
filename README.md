@@ -92,10 +92,10 @@ Imagens
 Código inline
 =============
 
-Essa é a função sayHello():
-    \`function sayHello() {
+Essa é a função sayHello():  
+    function sayHello() {
       return 'hi!';
-    \`}
+    }
 
 Code highlight
 ==============
