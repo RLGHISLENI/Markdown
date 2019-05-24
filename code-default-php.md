@@ -5,7 +5,7 @@
 ```php
 public function foo($arg1, &arg2, $arg3 = [])
 {
-  /// methodbody
+  // methodbody
 }
 ```
 
@@ -17,8 +17,19 @@ public function aVeryLongMethodName(
     &arg2, 
     $arg3 = []
 ) {
-  /// methodbody
+  // methodbody
 }
 ```
 
+### Exceções
 
+```php
+<?php
+try {
+  // try body
+} catch (FirstExceptionType $e) {
+  // catch body
+} catch (FirstExceptionType $e) {
+  // catch body
+}
+```
