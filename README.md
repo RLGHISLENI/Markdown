@@ -17,15 +17,13 @@ Título de nível 2
 Ênfase 
 ======
 
-Javascript é _cool_!.
-
+Javascript é _cool_!.  
 Javascript é *cool*!.
 
 Strong
 ======
 
-**Grêmio** é campeão do **mundo**.
-
+**Grêmio** é campeão do **mundo**.  
 __Grêmio__ é campeão do __mundo__.
 
 Escolhas
@@ -49,18 +47,14 @@ Macarrão  | R$ 8
 Links 
 =====
 
-[AppSul Sistemas](https://appsul.com).
-
+[AppSul Sistemas](https://appsul.com).  
 [AppSul Sistemas](https://appsul.com "Clique e acesse agora!").
-
 
 Links automáticos
 =================
 
-<https://www.appsul.com.br>.
-
+<https://www.appsul.com.br>.  
 <beto.ghisleni@gmail.com>.
-
 
 Blocos de citação 
 =================
@@ -85,18 +79,15 @@ Listas
 - Item 2
 - Item 3
 
-1 Item 1
+1. Item 1
 * Item 2
 * Item 3
-
 
 Imagens 
 =======
 
-![Banana](http://cdn.osxdaily.com/wp-content/uploads/2013/07/dancing-banana.gif).
-
+![Banana](http://cdn.osxdaily.com/wp-content/uploads/2013/07/dancing-banana.gif).  
 ![Banana](http://cdn.osxdaily.com/wp-content/uploads/2013/07/dancing-banana.gif "Olha a banana dançando!").
-
 
 Código inline
 =============
@@ -118,26 +109,15 @@ function sayHello() {
 Escape
 ======
 
-\\  backslash (barra invertida).
-
-\`  backtick (crase).
-
-\*  asterisk (asterisco).
-
-\_  underscore.
-
-\{} curly braces (chaves).
-
-\[] square brackets (colchetes).
-
-\() parentheses (parênteses).
-
-\#  hash mark (sustenido / hash / jogo da velha).
-
-\+  plus sign (sinal de "mais" ou somar).
-
-\-  minus sign (hyphen) (sinal de menos ou hífen).
-
-\.  dot (ponto).
-
-\!  exclamation mark (ponto de exclamação).
+\\  backslash (barra invertida).  
+\`  backtick (crase).  
+\*  asterisk (asterisco).  
+\_  underscore.  
+\{} curly braces (chaves).  
+\[] square brackets (colchetes).  
+\() parentheses (parênteses).  
+\#  hash mark (sustenido / hash / jogo da velha).  
+\+  plus sign (sinal de "mais" ou somar).  
+\-  minus sign (hyphen) (sinal de menos ou hífen).  
+\.  dot (ponto).  
+\!  exclamation mark (ponto de exclamação).  
