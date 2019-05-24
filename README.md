@@ -89,15 +89,6 @@ Imagens
 ![Banana](http://cdn.osxdaily.com/wp-content/uploads/2013/07/dancing-banana.gif).  
 ![Banana](http://cdn.osxdaily.com/wp-content/uploads/2013/07/dancing-banana.gif "Olha a banana dançando!").
 
-Código inline
-=============
-
-Essa é a função sayHello():  
-    ```
-    function sayHello() {
-      return 'hi!';
-    }
-    ```
 
 Code highlight
 ==============
