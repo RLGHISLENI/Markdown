@@ -1,6 +1,12 @@
 # Markdown
+
 Códigos básicos usados para criação de arquivos markdown - Repositório de Exemplos
 
+## Guia de Referência
+
+- [https://www.markdownguide.org/basic-syntax/](Definições Básicas)
+- [https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet](Dicas de Markdown)
+ 
 Título de nível 1
 ==================
   
