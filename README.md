@@ -4,8 +4,8 @@ Códigos básicos usados para criação de arquivos markdown - Repositório de E
 
 ## Guia de Referência
 
-- [https://www.markdownguide.org/basic-syntax/](Definições Básicas)
-- [https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet](Dicas de Markdown)
+ - [https://www.markdownguide.org/basic-syntax/](Definições Básicas)
+ - [https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet](Dicas de Markdown)
  
 Título de nível 1
 ==================
@@ -105,7 +105,7 @@ function sayHello() {
     }
 ```
 
-- [Veja a lista de linguagens suportadas](http://www.rubycoloredglasses.com/2013/04/languages-supported-by-github-flavored-markdown/)
+ - [Veja a lista de linguagens suportadas](http://www.rubycoloredglasses.com/2013/04/languages-supported-by-github-flavored-markdown/)
 
 Escape
 ======
