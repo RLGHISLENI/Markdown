@@ -4,8 +4,8 @@ Códigos básicos usados para criação de arquivos markdown - Repositório de E
 
 ## Guia de Referência
 
- - [https://www.markdownguide.org/basic-syntax/](Definições Básicas)
- - [https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet](Dicas de Markdown)
+ - [Definições Básicas](https://www.markdownguide.org/basic-syntax/)
+ - [Dicas de Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
  
 Título de nível 1
 ==================
